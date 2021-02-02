@@ -767,3 +767,9 @@ fieldset[disabled] .btn-xl:hover {
     padding-right: 0;
     padding-left: 0;
 }
+
+.img-fluid {
+    height: 25vh;
+    width: 100%;
+    object-fit: cover;
+}
