@@ -773,3 +773,9 @@ fieldset[disabled] .btn-xl:hover {
     width: 100%;
     object-fit: cover;
 }
+
+.text-muted {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
